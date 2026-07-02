@@ -1,0 +1,11 @@
+{
+  "id": "auto-index",
+  "name": "Auto Index",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Automatically generates index notes for specified folders, listing files and subfolders recursively.",
+  "author": "RakushkaTOP",
+  "authorUrl": "https://github.com/RakushkaTOP",
+  "fundingUrl": "https://www.buymeacoffee.com/RakushkaTOP",
+  "isDesktopOnly": false
+}
