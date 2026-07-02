@@ -4,53 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "4d614de8ccbbf238",
+        "id": "838771da98d7617b",
         "type": "tabs",
         "children": [
           {
-            "id": "c36b8dc6c2cc9887",
+            "id": "4311486f6c5bba45",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "算法/字符串/字符串哈希.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "字符串哈希"
-            }
-          },
-          {
-            "id": "565c33b3c820f17f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "算法/图论/图/最小生成树.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "最小生成树"
-            }
-          },
-          {
-            "id": "c7c6d5cb28e6915b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "readme.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "readme"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "readme 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -212,46 +178,45 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "c7c6d5cb28e6915b",
+  "active": "4311486f6c5bba45",
   "lastOpenFiles": [
+    "未命名.canvas",
+    "算法/数学/组合数学/牛顿恒等式.md",
+    "算法/数学/组合数学/佩尔方程.md",
+    "算法/数学/组合数学/卡特兰数.md",
+    "算法/数学/位运算/快速判断2的幂.md",
+    "算法/数学/位运算/自然数异或和性质.md",
+    "().md",
+    "算法/数学/集合论/枚举子集.md",
+    "算法/图论/树/树的直径.md",
     "算法/算法.md",
-    "算法/图论/图/最小生成树.md",
-    "算法/图论/图/A星.md",
-    "算法/字符串/AC自动机.md",
-    "算法/字符串/字典树(Trie).md",
-    "算法/字符串/字符串哈希.md",
-    "算法/字符串/Manacher.md",
-    "算法/字符串/KMP.md",
-    "算法/字符串/拓展KMP.md",
-    "算法/图论/图/SPFA.md",
-    "算法/图论/图/Floyd.md",
-    "算法/图论/图/dijkstra算法.md",
-    "算法/图论/图/Bellman-Ford.md",
-    "算法/数据结构/堆或优先级队列/大根堆小根堆.md",
-    "算法/图论/图/双向广搜.md",
-    "算法/博弈/威佐夫博弈（Wythoff game）.md",
-    "算法/博弈/尼姆博弈（Nim game）.md",
-    "算法/博弈/斐波那契博弈（Fibonacci game）.md",
-    "算法/博弈/巴什博弈（Bash game）.md",
-    "算法/博弈/SG定理.md",
-    "算法/博弈/SG函数.md",
-    "算法/博弈",
-    "算法/动态规划/树形dp",
+    "算法/数学/数论/质数/质数筛/埃氏筛与欧拉筛.md",
+    "算法/数学/数论/快速幂/乘法快速幂.md",
+    "算法/数学/数论/快速幂/矩阵快速幂.md",
+    "算法/数据结构/线性表/队列/队列.md",
+    "算法/数据结构/线性表/栈和队列/栈.md",
+    "算法/数据结构/线性表/栈和队列/单调栈.md",
+    "算法/基础算法与思想/C++中STL的使用",
+    "算法/基础算法与思想/未命名.md",
+    "算法/数据结构/线性表/队列",
+    "算法/数学/群论",
+    "算法/数据结构/线段树/线段树.md",
+    "算法/图论/树/中位点.md",
     "算法/基础算法与思想/搜索/洪水填充.md",
     "算法/基础算法与思想/搜索/N皇后问题.md",
-    "算法/数据结构/二叉树/利用三序生成树.md",
+    "算法/基础算法与思想/倍增/ST表.md",
+    "算法/图论/图/dijkstra算法.md",
+    "算法/图论/图/Bellman-Ford.md",
+    "算法/图论/图/Floyd.md",
+    "算法/图论/图/SPFA.md",
+    "算法/博弈",
+    "算法/动态规划/树形dp",
     "算法/数据结构/链表",
-    "算法/数据结构/栈和队列",
-    "算法/数据结构/未命名.md",
+    "算法/数据结构/线性表/栈和队列",
     "算法/数学/位运算",
-    "算法/数学/未命名.md",
     "未命名",
     "算法/readme.base",
     "算法/readme.canvas",
-    "算法/字符串",
-    "算法/图论/树",
-    "算法/图论/图",
-    "未命名.canvas",
     "Pasted image 20260701131302.png"
   ]
 }
