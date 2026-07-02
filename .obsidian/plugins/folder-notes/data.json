@@ -19,7 +19,7 @@
   "openInNewTab": false,
   "focusExistingTab": false,
   "oldFolderNoteName": "{{folder_name}}",
-  "folderNoteName": "{{readme}}",
+  "folderNoteName": "算法",
   "folderNoteType": ".md",
   "disableFolderHighlighting": false,
   "newFolderNoteName": "{{folder_name}}",
@@ -63,11 +63,9 @@
     "explorer": true,
     "path": true
   },
-  "settingsTab": "general",
+  "settingsTab": "file_explorer",
   "supportedFileTypes": [
-    "md",
-    "canvas",
-    "base"
+    "md"
   ],
   "boldName": false,
   "boldNameInPath": false,
