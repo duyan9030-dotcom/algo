@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "838771da98d7617b",
+        "id": "ab465a8148c818db",
         "type": "tabs",
         "children": [
           {
-            "id": "4311486f6c5bba45",
+            "id": "9d96cc8f8b745a06",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 369.5
   },
   "right": {
     "id": "bd8f851723f8f9ed",
@@ -159,8 +159,19 @@
               "icon": "lucide-list",
               "title": "基础算法.md 的大纲"
             }
+          },
+          {
+            "id": "a5455380842fb224",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -168,6 +179,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "realclaudian:Open Claudian": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -175,47 +187,49 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "markdown-importer:打开 Markdown 格式转换器": false
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "4311486f6c5bba45",
+  "active": "c71589cbe486710e",
   "lastOpenFiles": [
-    "未命名.canvas",
-    "算法/数学/组合数学/牛顿恒等式.md",
-    "算法/数学/组合数学/佩尔方程.md",
-    "算法/数学/组合数学/卡特兰数.md",
-    "算法/数学/位运算/快速判断2的幂.md",
-    "算法/数学/位运算/自然数异或和性质.md",
-    "().md",
-    "算法/数学/集合论/枚举子集.md",
+    "2026-07-04.md",
+    "未命名.base",
+    "未命名.md",
+    "未命名 1.base",
+    "算法/图论/图/二分图.md",
+    "算法/图论/图/拓扑排序.md",
+    "算法/图论/树/LCA.md",
+    "算法/图论/树/树的中心.md",
+    "算法/图论/树/树的重心.md",
+    "算法/图论/树/中位点.md",
     "算法/图论/树/树的直径.md",
-    "算法/算法.md",
-    "算法/数学/数论/质数/质数筛/埃氏筛与欧拉筛.md",
-    "算法/数学/数论/快速幂/乘法快速幂.md",
-    "算法/数学/数论/快速幂/矩阵快速幂.md",
-    "算法/数据结构/线性表/队列/队列.md",
-    "算法/数据结构/线性表/栈和队列/栈.md",
-    "算法/数据结构/线性表/栈和队列/单调栈.md",
+    "算法/图论/图/图的遍历/BFS.md",
+    "算法/图论/图/图的遍历/DFS.md",
+    "算法/图论/图/dijkstra算法.md",
+    "算法/数据结构/线段树/线段树.md",
+    "算法/数据结构/树状数组/树状数组.md",
+    "算法/图论/图/建图方式/邻接矩阵&邻接表.md",
+    "算法/图论/图/建图方式/邻接表.md",
+    "算法/图论/图/建图方式/链式前向星.md",
+    "算法/图论/图/图论基础.md",
+    "算法/字符串/拓展KMP.md",
+    "算法/数学/组合数学/佩尔方程.md",
+    "算法/数学/线性代数/未命名.md",
+    "算法/博弈/尼姆博弈（Nim game）.md",
+    "算法/数学/数论/同余原理.md",
+    "算法/数学/数论/同余原理/乘法同余.md",
+    "算法/数据结构/链表/双向链表.md",
+    "算法/数据结构/链表/单链表.md",
+    "未命名.canvas",
     "算法/基础算法与思想/C++中STL的使用",
-    "算法/基础算法与思想/未命名.md",
     "算法/数据结构/线性表/队列",
     "算法/数学/群论",
-    "算法/数据结构/线段树/线段树.md",
-    "算法/图论/树/中位点.md",
-    "算法/基础算法与思想/搜索/洪水填充.md",
-    "算法/基础算法与思想/搜索/N皇后问题.md",
-    "算法/基础算法与思想/倍增/ST表.md",
-    "算法/图论/图/dijkstra算法.md",
-    "算法/图论/图/Bellman-Ford.md",
-    "算法/图论/图/Floyd.md",
-    "算法/图论/图/SPFA.md",
     "算法/博弈",
     "算法/动态规划/树形dp",
     "算法/数据结构/链表",
     "算法/数据结构/线性表/栈和队列",
     "算法/数学/位运算",
-    "未命名",
-    "算法/readme.base",
     "算法/readme.canvas",
     "Pasted image 20260701131302.png"
   ]
